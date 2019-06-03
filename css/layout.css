@@ -1,0 +1,128 @@
+/* RESET CSS */
+
+@import url('normalize.css');
+
+
+/* -------------------------- */
+
+
+@font-face {
+	font-family: "Greta";
+	font-weight: 400; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../font/Greta.ttf');
+	
+}
+
+@font-face {
+	font-family: "GretaItalic";
+	font-weight: 400; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../font/GretaItalic.ttf');
+	
+}
+
+@font-face {
+font-family: "Neue";
+	font-weight: 450; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../font/NeueHaas.otf');
+}	
+
+html {
+	font-size: 20px;	
+}
+
+
+body {
+
+	font-family: "Greta";
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	line-height: 1.3; /* 20 x 1.3 = 26 px */
+
+	margin: 1rem;
+}
+
+em, i {
+	font-family: "GretaItalic";
+	font-weight: 400;
+}
+
+/* titres */
+h1 {	
+	line-height: 92px;
+	text-align: right;
+	font-weight: 700;
+	font-family: "Neue";
+	font-size: 96px;
+	text-transform: uppercase;
+	color:#5B5656;
+	margin-top: 0;
+}
+
+p {
+	
+	margin: 2rem 4rem 1rem auto;
+	width: calc(70% - 1rem);
+	color:#1C2833;
+
+}
+
+a {
+	color:#5B5656;
+
+}
+
+a:hover {
+text-decoration: line-through;
+
+}
+
+img {
+max-width: 100%;
+height: auto;
+}
+
+figure {
+	margin: 0 0 0 0,5rem;
+
+}
+
+figcaption {
+	width: 50%;
+	margin: 0 auto;
+	font-size: 0.7rem;
+	line-height: 1.25;
+	text-align: center;
+	color: #919EAB;
+
+}
+
+.link{
+	color: #919EAB;
+	text-decoration: none;
+}
+
+.colonne {
+	width: calc(25% - 1rem);
+	float: left;
+	margin: 0rem 1rem 0rem 0;
+}
+
+.colonne figcaption {
+	width: 100%;
+}
+
+.rouge p{
+	color: #892B29;
+}
+
+.habillage p{
+	
+	float; right: 
+	color: #892B29;
+	margin:1rem 0 1rem 1rem;
+	text-align: right;
+
+
+}

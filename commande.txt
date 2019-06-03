@@ -1,0 +1,1 @@
+pandoc -s manco.md -c css/layout.css -o manco.html
