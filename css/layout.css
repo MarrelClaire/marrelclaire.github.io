@@ -129,7 +129,8 @@ figcaption {
 }
 
 .biblio {
-	columns: 4;
+	columns: 3;
+	
 }
 
 
@@ -143,8 +144,8 @@ figcaption {
 	}
 
 	h1 {
-		line-height: 40px;
-		font-size: 43px;
+		line-height: 20px;
+		font-size: 23px;
 	}
 	.hideXS {
 		display: none;
