@@ -152,9 +152,9 @@ s.n. Catalogue des plus beaux livres suisses, The past issue. s.n., 2008.
 [Exposition: Ever living—Ornement.] *Ever living ornement,* Dir Sophie Auger et Valérie Knockel, Paris, B42, 2012.
 
 
-RENNERT, Jack et WEILL Alain, *Alphonse Mucha, toutes les affiches et panneaux,* Paris, Henri Veyrier, 1984.
+RENNERT, Jac et WEILL Alain, *Alphonse Mucha, toutes les affiches et panneaux,* Paris, Henri Veyrier, 1984.
 
-VANDERLANS, Rudy. *Emigre No.70 the Look Back Issue, Selections from Emigre Magazine 1-69. Celebrating 25 Years of Graphic Design,*  Berkeley, Gingkopress, 2009.
+VANDERLANS, Rudy. *Emigre No.70 the Look Back Issue, Selections from Emigre Magazine 1—69. Celebrating 25 Years of Graphic Design,*  Berkeley, Gingkopress, 2009.
 
 </div>
 
